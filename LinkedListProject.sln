@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleLinkedListProject", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularLinkedListProject", "CircularLinkedListProject\CircularLinkedListProject.csproj", "{0E206323-C7E5-4459-8820-3C1900C1D114}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeaderLinkedList", "HeaderLinkedList\HeaderLinkedList.csproj", "{B57FA3E1-3DDA-49B9-96AF-EB9D8296ECB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedLinkedList", "SortedLinkedList\SortedLinkedList.csproj", "{B6128A3C-4DA1-4477-8B7E-3F7CA5ADA4E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{0E206323-C7E5-4459-8820-3C1900C1D114}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E206323-C7E5-4459-8820-3C1900C1D114}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E206323-C7E5-4459-8820-3C1900C1D114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B57FA3E1-3DDA-49B9-96AF-EB9D8296ECB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57FA3E1-3DDA-49B9-96AF-EB9D8296ECB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57FA3E1-3DDA-49B9-96AF-EB9D8296ECB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57FA3E1-3DDA-49B9-96AF-EB9D8296ECB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6128A3C-4DA1-4477-8B7E-3F7CA5ADA4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6128A3C-4DA1-4477-8B7E-3F7CA5ADA4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6128A3C-4DA1-4477-8B7E-3F7CA5ADA4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6128A3C-4DA1-4477-8B7E-3F7CA5ADA4E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

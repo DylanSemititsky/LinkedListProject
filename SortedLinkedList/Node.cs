@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CircularLinkedListProject
+namespace SortedLinkedListProject
 {
     class Node
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CircularLinkedListProject
+namespace HeaderLinkedListProject
 {
     class Node
     {
